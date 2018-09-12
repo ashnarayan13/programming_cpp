@@ -23,3 +23,8 @@ add_executable(stringstream src/stringstream.cpp)
 add_executable(struct_intro src/struct_intro.cpp)
 
 add_executable(varible_array src/varible_array.cpp)
+
+add_executable(box_it src/box_it.cpp)
+add_executable(class_intro src/class_intro.cpp)
+add_executable(class_template src/class_template.cpp)
+add_executable(classes_objects src/classes_objects.cpp)
