@@ -5,3 +5,7 @@ project (Tutorial)
 set (CMAKE_CXX_STANDARD 11)
 
 add_executable(search_k src/search_k_in_array.cpp)
+
+add_executable(serialize src/serialize_tree.cpp)
+
+add_executable(smallest_int src/smallest_positive_integer.cpp)
