@@ -13,3 +13,5 @@ add_executable(smallest_int src/smallest_positive_integer.cpp)
 add_executable(function_inception src/function_inception.cpp)
 
 add_executable(exclusive_prod src/exclusive_product.cpp)
+
+add_executable(xor_ll src/xor_ll.cpp)
