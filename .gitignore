@@ -1,2 +1,6 @@
 hackerrank/build/
+hackerrank/cmake-build-debug/
+hackerrank/.idea/
 DCP/build/
+DCP/cmake-build-debug/
+DCP/.idea/
