@@ -15,3 +15,7 @@ add_executable(function_inception src/function_inception.cpp)
 add_executable(exclusive_prod src/exclusive_product.cpp)
 
 add_executable(xor_ll src/xor_ll.cpp)
+
+add_executable(decode src/decode.cpp)
+
+add_executable(unival_tree src/unival_tree.cpp)
