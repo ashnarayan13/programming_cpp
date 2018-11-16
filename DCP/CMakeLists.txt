@@ -19,3 +19,7 @@ add_executable(xor_ll src/xor_ll.cpp)
 add_executable(decode src/decode.cpp)
 
 add_executable(unival_tree src/unival_tree.cpp)
+
+add_executable(non_adjacent_sum src/non_adjacent_sum.cpp)
+
+add_executable(sleep_ms src/sleep_ms.cpp)
