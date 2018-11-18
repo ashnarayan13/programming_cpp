@@ -23,3 +23,7 @@ add_executable(unival_tree src/unival_tree.cpp)
 add_executable(non_adjacent_sum src/non_adjacent_sum.cpp)
 
 add_executable(sleep_ms src/sleep_ms.cpp)
+
+add_executable(trie_autosearch src/trie_autosearch.cpp)
+
+add_executable(staircase src/staircase.cpp)
