@@ -27,3 +27,9 @@ add_executable(sleep_ms src/sleep_ms.cpp)
 add_executable(trie_autosearch src/trie_autosearch.cpp)
 
 add_executable(staircase src/staircase.cpp)
+
+add_executable(monte_carlo_pi src/monte_carlo_pi.cpp)
+
+add_executable(random_number src/random_number.cpp)
+
+add_executable(stack src/stack.cpp)
