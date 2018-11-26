@@ -33,3 +33,5 @@ add_executable(monte_carlo_pi src/monte_carlo_pi.cpp)
 add_executable(random_number src/random_number.cpp)
 
 add_executable(stack src/stack.cpp)
+
+add_executable(max_sliding_window src/max_sliding_window.cpp)
