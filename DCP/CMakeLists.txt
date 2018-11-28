@@ -37,3 +37,5 @@ add_executable(stack src/stack.cpp)
 add_executable(max_sliding_window src/max_sliding_window.cpp)
 
 add_executable(node_intersection src/node_intersection.cpp)
+
+add_executable(scheduling src/scheduling.cpp)
