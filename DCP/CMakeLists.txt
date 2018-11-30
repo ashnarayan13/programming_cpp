@@ -39,3 +39,7 @@ add_executable(max_sliding_window src/max_sliding_window.cpp)
 add_executable(node_intersection src/node_intersection.cpp)
 
 add_executable(scheduling src/scheduling.cpp)
+
+add_executable(min_path src/min_path.cpp)
+
+add_executable(min_cost_painting src/min_cost_painting.cpp)
