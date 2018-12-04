@@ -43,3 +43,5 @@ add_executable(scheduling src/scheduling.cpp)
 add_executable(min_path src/min_path.cpp)
 
 add_executable(min_cost_painting src/min_cost_painting.cpp)
+
+add_executable(kth_element_ll src/kth_element_ll.cpp)
