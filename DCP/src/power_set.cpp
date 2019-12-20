@@ -4,6 +4,7 @@
 
 #include <iostream>
 #include <vector>
+#include <cmath>
 
 void printSet(std::vector<char> sets){
     unsigned int setSize = std::pow(2, sets.size());

@@ -4,6 +4,7 @@
 
 #include <iostream>
 #include <queue>
+#include <cstring>
 
 #define ROW 4
 #define COL 4
@@ -30,7 +31,7 @@ int minCost(int mat[][COL], Point src, Point dst){
         return -1;
     }
     bool visited[ROW][COL];
-    memset(visited, false, sizeof(visited));
+    std::memset(visited, false, sizeof(visited));
     visited[src.x][src.y] = true;
     std::queue<qNode> q;
     qNode s = {src, 0};

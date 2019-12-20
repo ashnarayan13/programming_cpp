@@ -4,6 +4,7 @@
 
 #include <iostream>
 #include <algorithm>
+#include <vector>
 
 long getLargestProd(std::vector<int> input){
     std::sort(input.begin(), input.end());

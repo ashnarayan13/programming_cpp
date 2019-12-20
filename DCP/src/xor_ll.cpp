@@ -3,6 +3,7 @@
 //
 
 #include <iostream>
+#include <algorithm>
 
 // default node struct
 struct Node {
