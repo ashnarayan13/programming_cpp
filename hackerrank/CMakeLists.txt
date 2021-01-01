@@ -87,3 +87,7 @@ add_executable(strange-advertising src/strange-advertising.cpp)
 add_executable(print-elements-linkedlist src/print-elements-linked-list.cpp)
 
 add_executable(insert-node-tail src/insert-node-tail.cpp)
+
+add_executable(array_manip src/array_manip.cpp)
+
+add_executable(attrib_parser src/attrib_parser.cpp)
