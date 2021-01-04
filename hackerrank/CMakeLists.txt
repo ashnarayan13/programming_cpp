@@ -91,3 +91,11 @@ add_executable(insert-node-tail src/insert-node-tail.cpp)
 add_executable(array_manip src/array_manip.cpp)
 
 add_executable(attrib_parser src/attrib_parser.cpp)
+
+add_executable(merge_point src/merge_point.cpp)
+
+add_executable(insert_node_dll src/insert_node_dll.cpp)
+
+add_executable(reverse_dll src/reverse_dll.cpp)
+
+add_executable(merge_ll src/merge_ll.cpp)
