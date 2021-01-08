@@ -99,3 +99,9 @@ add_executable(insert_node_dll src/insert_node_dll.cpp)
 add_executable(reverse_dll src/reverse_dll.cpp)
 
 add_executable(merge_ll src/merge_ll.cpp)
+
+add_executable(tree_traversal src/tree_traversal.cpp)
+
+add_executable(tree_insert src/tree_insert.cpp)
+
+add_executable(dynamic_seq src/dynamic_seq.cpp)
