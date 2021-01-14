@@ -105,3 +105,9 @@ add_executable(tree_traversal src/tree_traversal.cpp)
 add_executable(tree_insert src/tree_insert.cpp)
 
 add_executable(dynamic_seq src/dynamic_seq.cpp)
+
+add_executable(bribe_array src/bribe_array.cpp)
+
+add_executable(minimum_swaps src/minimum_swaps.cpp)
+
+add_executable(LCA src/LCA.cpp)

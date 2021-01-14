@@ -150,9 +150,9 @@ int main() {
     }
   
 	//myTree.postOrder(root);
-	//myTree.inOrder(root);
+	myTree.inOrder(root);
 	//myTree.preOrder(root);
-    //myTree.inOrder(root);
-    myTree.topView(root);
+    //myTree.levelOrder(root);
+    //myTree.topView(root);
     return 0;
 }
